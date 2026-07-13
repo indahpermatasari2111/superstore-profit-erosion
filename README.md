@@ -107,7 +107,9 @@ FROM simulation;
 - Interactive filters: region, product category
 - Percentage display types multiply values by 100 — values must be stored as decimals
 - Cross-chart reconciliation: every profit chart was validated to sum back to $1,467,456.55
-<img width="1339" height="1009" alt="dashboard_loss analysis" src="https://github.com/user-attachments/assets/a3c065a8-9b1d-4cf5-b806-4a8e6f65fd1d" />
+<img width="1398" height="1050" alt="Screenshot 2026-07-13 at 11 33 53" src="https://github.com/user-attachments/assets/510c5be8-da59-481a-804f-f034b1234883" />
+
+
 
 #### 💡 Key Findings
 - 38.6% of profit is eroded. $920.7K in gross profit is lost through 11.3K loss-making transactions.
@@ -117,9 +119,9 @@ FROM simulation;
 - Capping discounts at 20% recovers ~70% of lost profit, lifting total profit to $2.50M.
 
 #### ✅ Business Recommendations
--Set a default maximum discount of 20%; anything above requires special approval with a documented margin justification.
-- Audit the 40–60% discount band — the largest loss contributor (−$388.3K) — to identify the most problematic products and regions.
-- Track Profit Erosion Percent as a monthly KPI, not just total profit, so hidden losses are detected early.
+1. Set a default maximum discount of 20%; anything above requires special approval with a documented margin justification.
+2.  Audit the 40–60% discount band — the largest loss contributor (−$388.3K) — to identify the most problematic products and regions.
+3.  Track Profit Erosion Percent as a monthly KPI, not just total profit, so hidden losses are detected early.
   
 
 ## 👤 About Me
